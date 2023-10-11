@@ -1,0 +1,15 @@
+Groupe Sirine/Imrane/Alexandre
+
+Découverte du sujet
+Premiere appréhention 
+
+création d'un cahier des charges et des différentes problématiques
+
+création du depot git et mise en place de Arduino IDE pour Imrane
+
+lancement des recherches pour le wifi de l'ESP
+
+
+Prevu pour le 12/10/23
+
+ojectif : faire que l'ESP envoie et recupère de la donnée via wifi
