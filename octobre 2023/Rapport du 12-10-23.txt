@@ -1,0 +1,7 @@
+Prise de connaissance de l'adresse mac Serveur et Client
+
+Découverte d'une erreur sur le cote serveur qui transforme en Ascii la donnée envoyée par le client
+
+obj du 13/10/23 : 
+
+recevoir correctement la donnee envoyer cote client vers le serveur
