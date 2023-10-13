@@ -1,0 +1,3 @@
+On a reussi a recevoir correctement la donnée sur le serveur avec 80% de reussite et 20% de perte. on a reussi a envoyé une donnee variable avec un capteur humidite. on a reussi a envoyer deux donnees en meme temps.
+
+obj du prochain jour : traiter la recu de plusieurs constante et les enregistrer dans le bonne ordre (du moins organiser)
